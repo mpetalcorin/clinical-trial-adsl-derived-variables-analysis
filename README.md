@@ -426,7 +426,7 @@ Code can run successfully while still implementing the wrong derivation, using t
 
 ## Literature-Based Simulation Anchors
 
-The simulation parameters were informed by peer-reviewed PubMed-indexed publications. These values are used only as plausibility anchors rather than as a pooled representation of a single therapeutic population.
+The simulation parameters were informed by peer-reviewed journal-indexed publications. These values are used only as plausibility anchors rather than as a pooled representation of a single therapeutic population.
 
 1. **Li C, Liang W, et al.** Sleep and risk of hypertension in general American adults: the National Health and Nutrition Examination Surveys, 2015-2018. *Journal of Hypertension*. PMID: 36129105.  
    DOI: https://doi.org/10.1097/HJH.0000000000003299
