@@ -337,7 +337,7 @@ A minimal repository can be organised as:
 clinical-trial-adsl-derived-variables-analysis/
 |
 |-- README.md
-|-- roche_adsl_derived_variables_pubmed_benchmarked_analysis.ipynb
+|-- adsl_derived_variables_pubmed_benchmarked_analysis.ipynb
 |
 `-- outputs_adsl_simulation/
     |-- data/
