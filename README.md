@@ -382,37 +382,6 @@ Alternatively, with Conda:
 conda install numpy pandas matplotlib scipy statsmodels jupyter
 ```
 
-## Running the Notebook
-
-Clone the repository:
-
-```bash
-git clone https://github.com/mpetalcorin/clinical-trial-adsl-derived-variables-analysis.git
-cd clinical-trial-adsl-derived-variables-analysis
-```
-
-Start Jupyter:
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-roche_adsl_derived_variables_pubmed_benchmarked_analysis.ipynb
-```
-
-Then run all cells from top to bottom.
-
-The notebook uses a fixed random seed:
-
-```python
-SEED = 20260812
-```
-
-This makes the synthetic-data generation reproducible.
-
 ## Key Clinical-Programming Principles Demonstrated
 
 ### Specification-driven derivation
