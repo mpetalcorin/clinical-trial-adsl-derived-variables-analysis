@@ -1,6 +1,6 @@
 # Clinical Trial ADSL Derived Variables Analysis
 
-End-to-end clinical trial programming workflow demonstrating synthetic source-domain generation, ADaM-style ADSL derivations, independent QC, safety analyses, statistical modelling, and publication-quality visualisation using parameters benchmarked to peer-reviewed PubMed-indexed literature.
+End-to-end clinical trial programming workflow demonstrating synthetic source-domain generation, ADaM-style ADSL derivations, independent QC, safety analyses, statistical modelling, and publication-quality visualisation using parameters benchmarked to peer-reviewed journal-indexed literature.
 
 ## Overview
 
