@@ -32,7 +32,7 @@ The primary goal is to demonstrate how clinical-programming rules can be transla
 ## Main Notebook
 
 ```text
-roche_adsl_derived_variables_pubmed_benchmarked_analysis.ipynb
+adsl_derived_variables_pubmed_benchmarked_analysis.ipynb
 ```
 
 The notebook includes:
